@@ -11,8 +11,6 @@ To get started, you will need to have Python3 and Jupyter Notebook installed in 
 4. randomuser
 5. nba_api
 
-You can clone this repo in your machine if you want local access. 
-
 ## Contents 
 
 1. Use of JokesAPI in to generate random jokes.
